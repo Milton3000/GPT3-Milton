@@ -32,10 +32,12 @@
   font-weight: 500;
   line-height: 30px;
   color: #71e5ff;
+  cursor: pointer;
 }
 
 .gpt3__possibility-content h4:last-child {
   color: #ff8a71;
+  cursor: pointer;
 }
 .gpt3__possibility-content h1 {
   font-family: var(--font-family);

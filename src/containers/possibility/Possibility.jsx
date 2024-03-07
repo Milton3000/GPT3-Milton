@@ -11,11 +11,11 @@ const Possibility = () => {
       <div className="gpt3__possibility-content">
         <h4> Request Early Access To Get Started </h4>
         <h1 className="gradient__text">
-          The Possibilities are beyond your imagination
-        </h1>
-        <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.
-        </p>
+        The Possibilities are Beyond your imagination
+</h1>
+<p>
+  The possibilities are limitless and extend far beyond your imagination. Every journey, even the ones filled with challenges, offers opportunities for growth and exploration. Embrace every experience, for they hold the potential to enrich your life in ways you never thought possible.
+</p>
         <h4> Request Early Access To Get Started </h4>
       </div>
     </div>
