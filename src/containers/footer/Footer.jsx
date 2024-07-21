@@ -34,7 +34,7 @@ const Footer = () => {
           <div className="gpt3__footer-links_div">
             <h4> Get in touch </h4>
             <p>Pilgatan 21 112 23 SWE Stockholm</p>
-            <p>+46723423550</p>
+            {/* <p>+46723423550</p> */}
             <p>info@gpt3.com</p>
           </div>
         </div>
